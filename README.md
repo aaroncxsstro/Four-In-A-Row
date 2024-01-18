@@ -74,6 +74,7 @@ Ensure you have the following installed before proceeding:
    ```sh
    git clone https://github.com/aaroncxsstro/Four-In-A-Row.git
 
+2. Import it to eclipse (Or just execute the jar file in the root of the project!)
 
 ## License
 
