@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/aaroncxsstro/Four-In-A-Row">
-    <img src="src/recursos/logo.png" alt="Logo" width="500" height="500">
+    <img src="src/recursos/logo.png" alt="Logo" width="70%" height="70%">
   </a>
 
 <h3 align="center">FOUR IN A ROW</h3>
